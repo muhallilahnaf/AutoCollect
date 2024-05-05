@@ -1,0 +1,1 @@
+pyinstaller -n "AutoCollect" --icon="AutoCollect.ico" --add-data="AutoCollect.ico;." --noconsole --onefile autocollect.py
